@@ -1,0 +1,9 @@
+{
+	"name": "analyticaldatabaseconnection",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "940348c6-12ae-4f95-b720-56facc8404b7",
+		"tenantId": "67aa074f-ddb9-4200-8af0-edb019cc8685"
+	}
+}
