@@ -7,5 +7,14 @@
 		},
 		"annotations": [],
 		"type": "AzurePostgreSqlTable"
+	},
+	"typeProperties": {
+		"source": {
+			"type": "PostgreSqlSource",
+			"query": "SELECT * FROM \"MySchema\".\"MyTable\""
+		},
+		"sink": {
+			"type": "<sink type>"
+		}
 	}
 }
