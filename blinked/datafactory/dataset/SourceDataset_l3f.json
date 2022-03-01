@@ -1,0 +1,11 @@
+{
+	"name": "SourceDataset_l3f",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ipaper6291",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlTable"
+	}
+}
