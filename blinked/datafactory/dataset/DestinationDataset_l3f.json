@@ -1,0 +1,11 @@
+{
+	"name": "DestinationDataset_l3f",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ipaper6291Azure",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzurePostgreSqlTable"
+	}
+}
